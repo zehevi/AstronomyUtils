@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Chroma 36mm LRGB",
+    "size": 36
+  },
+  {
+    "name": "Antlia 2-inch LRGB",
+    "size": 48
+  },
+  {
+    "name": "ZWO 1.25-inch LRGB",
+    "size": 26
+  },
+  {
+    "name": "QHY 1.25-inch LRGB",
+    "size": 26
+  },
+  {
+    "name": "Astronomik 2-inch L-2",
+    "size": 48
+  },
+  {
+    "name": "Baader 2-inch LRGB",
+    "size": 48
+  }
+]

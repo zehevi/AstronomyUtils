@@ -1,0 +1,27 @@
+[
+  {
+    "name": "ZWO ASI1600MM Pro",
+    "sensorWidth": 17.7,
+    "sensorHeight": 13.4
+  },
+  {
+    "name": "ZWO ASI294MM Pro",
+    "sensorWidth": 19.1,
+    "sensorHeight": 13.0
+  },
+  {
+    "name": "QHY 268M",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.7
+  },
+  {
+    "name": "QHY 600M",
+    "sensorWidth": 36,
+    "sensorHeight": 24
+  },
+  {
+    "name": "Svbony SV705C",
+    "sensorWidth": 11.14,
+    "sensorHeight": 6.26
+  }
+]
